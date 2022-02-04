@@ -1,0 +1,16 @@
+html,
+body {
+  background: #21232a;
+  font-size: 1.3rem;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 70px;
+  color: floralwhite;
+  text-align: center;
+}
+
+button {
+  font-size: 1.3rem;
+  margin-right: 10px;
+  padding: 10px;
+}
